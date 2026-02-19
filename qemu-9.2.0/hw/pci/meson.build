@@ -4,6 +4,7 @@ pci_ss.add(files(
   'msix.c',
   'pci.c',
   'pci_bridge.c',
+  'myedu.c',
   'pci_host.c',
   'pci-hmp-cmds.c',
   'pci-qmp-cmds.c',
